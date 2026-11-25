@@ -1,9 +1,5 @@
-.env/
-__pycache__/.env
-.env.*
+.env
 __pycache__/
 *.py[cod]
-venv/
-.venv/
 venv/
 .venv/
